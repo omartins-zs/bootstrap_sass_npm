@@ -13,3 +13,7 @@ Comando para compilar
 sass --watch (diretorio):(diretorio)
 
 sass -- watch o caminho aonde esta o arquivo a ser compilado os ":" e depois aonde ira ficar o novo arquivo
+
+
+Tutorial Compilando o Bootstrap com SASS e NPM
+ : https://www.youtube.com/watch?v=VAet5wEoOWU&t=25s&ab_channel=DiegoMariano
