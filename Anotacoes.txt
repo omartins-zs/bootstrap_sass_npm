@@ -1,7 +1,15 @@
 npm init
 
-npm i bootstrap 
+npm i bootstrap
 
 npm i jquery
 
 npm i -g sass
+
+Em bootstrap/scss no arquivo " _variables.scss " temos as variaveis que e aonde iremos mudar e compilar de forma personalizada as alteraçoes
+
+Comando para compilar
+
+sass --watch (diretorio):(diretorio)
+
+sass -- watch o caminho aonde esta o arquivo a ser compilado os ":" e depois aonde ira ficar o novo arquivo
